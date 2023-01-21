@@ -1,0 +1,17 @@
+/*sets the body margins and stuff*/
+body{
+	margin: 0;
+	height: auto;
+	background-position: center;
+	overflow: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: RGB(169,212,255);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
