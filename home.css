@@ -1,4 +1,14 @@
 /*sets the body margins and stuff*/
 body {
 	background-color: RGB(169,212,255);
+	background-image: url('Images/vines.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.text-main-color {
+	color: RGB(29,44,122,255);
+}
+.text-sec-color {
+	color: #ffff;
 }
